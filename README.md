@@ -47,15 +47,15 @@ Logistic Regression emerged as the best model for this task, achieving an accura
 
 # How to Use
 1. Clone the Repository:
-'''bash
+```
   git clone 
 https://github.com/yourusername/StudentExamOutcomePrediction.git 
 cd StudentExamOutcomePrediction
-
+```
 2. Install Dependencies:
-'''bash
+```
 pip install -r requirements.txt
-
+```
 3. Run the Model:
 Execute the main script to train the logistic regression model and test its performance.
 
